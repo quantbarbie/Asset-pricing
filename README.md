@@ -1,4 +1,3 @@
-```markdown
 # **Asset pricing**
 
 This repository contains Python scripts for portfolio optimization, asset pricing, and behavioral analysis using financial models. These scripts utilize advanced techniques to explore efficient frontiers, stochastic discount factors, risk-adjusted performance metrics, and investor behavior under utility-based frameworks.
